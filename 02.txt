@@ -1,4 +1,1 @@
 system.out.print("Hello world!")
-
-python is the best language
-⇒　write by zhou
